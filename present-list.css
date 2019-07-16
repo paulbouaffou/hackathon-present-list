@@ -1,0 +1,83 @@
+/* Style CSS of file HTML */
+
+
+		body {
+			
+  height: 100%;
+  margin: 0;
+
+  		}
+
+		table {
+			width: 100%;
+		}
+
+		table, th, td {
+			border: 1px solid black;
+			border-collapse: collapse;
+		}
+
+		th{
+			background-color: #000;
+			color: #fff;
+		}
+
+		th, td {
+			padding: 8px;
+			text-align: left;
+			font-family: Arial;
+		}
+
+		h2 {
+			font-family: Times New Roman;
+			text-align: center;
+		}
+
+		h3 {
+			font-family: Arial;
+			color: blue;
+			text-align: center;
+		}
+
+		h4 {
+			font-family: Arial;
+			color: #fff;
+			text-align: center;
+			border: 6px solid red;
+			background-color: red;
+			margin-left: 320px;
+			margin-right: 320px;
+			border-radius: 7px
+		}
+
+		.barre {
+		
+			border: 40px solid blue;
+		}
+
+
+		.barre1 {
+			border: 1px solid black;
+			align-items: center;
+			width: 500px
+		}
+
+		.barre2 {
+		
+			border: 1px dashed blue;
+		}
+
+		.para1 {
+		
+			text-align: right
+			margin-right: 100px;
+		}
+
+		.container {
+			margin-left: 280px;
+			margin-right: 280px;
+		}
+
+		.image-position {
+			margin-left: 1200px;
+		}
